@@ -22,7 +22,7 @@ export const products = [
   {
     id: 5,
     img: "https://images.unsplash.com/photo-1594897030264-ab7d87efc473?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c3BsYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
-    link: "http://lama.dev",
+    link: "https://ashishsng-portfolio.netlify.app/",
   },
   {
     id: 6,
