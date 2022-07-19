@@ -11,14 +11,13 @@ const Intro = () => {
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
-              <div className="i-title-item">UI/UX Designer</div>
-              <div className="i-title-item">Photographer</div>
-              <div className="i-title-item">App Developer</div>
-              <div className="i-title-item">Data Analyst</div>
-              <div className="i-title-item">Android Developer</div>
+              <div className="i-title-item">React-Native Developer</div>
+              <div className="i-title-item">Tech enthusiast</div>
+              <div className="i-title-item">Great team work skills</div>
+              <div className="i-title-item">Accountable</div>
             </div>
           </div>
-          <p className="i-desc">I design and develop services for customers of all sizes, specialiazing in creating stylish, modern websites, web services and online stores.</p>
+          <p className="i-desc">As a budding engineer i love to create and develop websites and apps to learn more about technologies and want to contribute to the society in future with these skills.</p>
         </div>
         <svg
           width="75"

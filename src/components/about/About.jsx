@@ -1,5 +1,5 @@
 import "./about.css";
-import Award from "../../img/award.png";
+import certificate from "../../img/certificate.jpg";
 
 const About = () => {
   return (
@@ -17,22 +17,28 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+          Loves to code and have good problem solving skills.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          3* start Coder at Codechef.
+          <br />
+          Ex-Frontend Web Application Intern at LETSTREAM VENTURES PRIVATE LIMITED.
+          <br />
+          Good at languages such as HTML, CSS, JavaScript, React, NodeJS, MongoDB, MySQL, Express, and more.
+          <br />
         </p>
         <div className="a-award">
-          <img src={Award} alt="" className="a-award-img" />
+          <img src={certificate} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">Certificates acquired till now! </h4>
             <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
+              The Complete C++ Developer Course Udemy.
+            </p>
+            <p className="a-award-desc">
+              DSA Foundation GFG.
+            </p>
+            <p className="a-award-desc">
+              The Complete Web Developer Course 2.0 Udemy.
             </p>
           </div>
         </div>

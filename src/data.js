@@ -2,22 +2,22 @@ export const products = [
   {
     id: 1,
     img: "https://images.unsplash.com/photo-1519865885898-a54a6f2c7eea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3BsYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
-    link: "http://lama.dev",
+    link: "https://crypto-tracker-ashish-sng.vercel.app/",
   },
   {
     id: 2,
     img: "https://images.unsplash.com/photo-1498462440456-0dba182e775b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BsYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
-    link: "http://lama.dev",
+    link: "https://github.com/ashish-sng/inshorts-clone",
   },
   {
     id: 3,
     img: "https://images.unsplash.com/photo-1459802071246-377c0346da93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c3BsYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
-    link: "http://lama.dev",
+    link: "https://youtube-videos-ashish-sng.vercel.app/",
   },
   {
     id: 4,
     img: "https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3BsYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
-    link: "http://lama.dev",
+    link: "https://ashish-sng.github.io/JIITCollegeSite/",
   },
   {
     id: 5,
